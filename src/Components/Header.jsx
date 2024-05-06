@@ -10,7 +10,7 @@ const Header = () => {
             <h1 className='nameh1'><span className='namespan'>FITNESS</span> WITH US</h1>
             <p className="namedetails">Build Your Body And Fitness With Professional Touch</p>
             <div className="header-btns">
-                <a href="https://www.instagram.com/_lift_and_fit_?igsh=bXAzOGw2cWEycG1p" className="header-btn">JOIN US</a>
+                <a href="#" className="header-btn">JOIN US</a>
             </div>
         </div>
     </div>
