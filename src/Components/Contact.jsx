@@ -10,6 +10,8 @@ const Contact = () => {
             <input type="submit" value='send'/>
         </form>
 
+        <h4>Opposite. Veterinary centre, Kolayad, 670650, Kannur </h4>
+
     </div>
   )
 }

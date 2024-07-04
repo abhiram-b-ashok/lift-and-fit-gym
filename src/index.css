@@ -378,6 +378,9 @@ nav .menu-btn,
     color: #fff;
     font-size: 3rem;
 }
+#contact h4{
+    color: #fff;
+}
 #contact form{
     width:600px;
     display:flex;
